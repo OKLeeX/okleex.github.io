@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Something about me.
+  一个记录美国生活，工作，以及更多有料事情，对于初来美国的新手，开拓人士，一个心灵的港湾。
