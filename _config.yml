@@ -1,9 +1,9 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
+title: 北美世界记述
+description: "一个记述北美事情的网站"
 author:
   name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  email: "support@naworld.et"
+  url: "https://blog.naworld.net"
 
 baseurl: /
 
