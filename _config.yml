@@ -1,7 +1,7 @@
 title: 北美世界记述
 description: "一个记述北美事情的网站"
 author:
-  name: "SomeHacker"
+  name: "skyView"
   email: "support@naworld.et"
   url: "https://blog.naworld.net"
 
@@ -29,4 +29,4 @@ plugins:
 
 # Custom variables
 owner : "SomeHacker"
-year : "2020"
+year : "2024"
